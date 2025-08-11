@@ -1,5 +1,17 @@
 div{
-    background-color: tomato;
+    background-color: rgb(150, 109, 188);
     padding: 10px;
-    margin-bottom: 15px;
+    margin: 15px;
+    margin-bottom: 25px;
+    border: 7px solid hotpink;
+    box-shadow: 10px 10px 10px;
+}
+h2{
+    padding: 20px;
+    /* margin-top: 20px; */
+    text-decoration: overline;
+}
+img{
+    border: 7px solid black;
+    border-radius: 4px;
 }
